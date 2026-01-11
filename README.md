@@ -67,5 +67,7 @@ The following plot shows the relationship between predicted values and actual va
 ---
 
 ## OutPut
+<img width="745" height="572" alt="image" src="https://github.com/user-attachments/assets/0e0c02a2-dc7e-4efa-b7c6-c2814601767c" />
+
 
 
